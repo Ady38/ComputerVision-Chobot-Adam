@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ComputerVision/ComputerVision.csproj" />
+  <Project Path="ComputerVision.Runner/ComputerVision.Runner.csproj" />
+  <Project Path="tests/ComputerVision.Tests/ComputerVision.Tests.csproj" />
+</Solution>
